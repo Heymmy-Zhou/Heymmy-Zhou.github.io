@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-# 我们是谁
+# 首页
+# 我们是谁|Who are we
 黑米粥工作室（Heymmy-Zhou Studio）位于中国大陆，是一家以开发、设计为主的非盈利工作室。  
 查看我们的[联系方式](#联系方式 "联系方式")
 
-# 我们的产品
+# 我们的产品|Our Products
 
 #### [圆计算](https://github.com/Heymmy-Zhou/CircleCal "圆计算")
 > 为方便大家计算有关圆的数据，告别复杂的圆周率计算，黑米粥工作室特推出圆计算程序，解决大家的圆计算难题。
@@ -20,7 +21,7 @@ layout: default
 #### [加法器](https://github.com/Heymmy-Zhou/Adder "加法器")
 > 采用 MFC 编写，供大家学习观摩。
 
-# 博客
+# 博客|Blog
 **请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh "知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)")】许可协议授权**
 ## 优秀图片编辑软件——paint.net 推荐
 **2020-07-20 19:58:02 星期一**
