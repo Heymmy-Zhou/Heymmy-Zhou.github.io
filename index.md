@@ -2,9 +2,11 @@
 layout: default
 ---
 # 首页
+---
+---
 # 我们是谁 | Who are we
 黑米粥工作室（Heymmy-Zhou Studio）位于中国大陆，是一家以开发、设计为主的非盈利工作室。  
-查看我们的[联系方式](#--contact-us "联系方式")
+查看我们的[联系方式](#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--contact-us "联系方式")
 
 # 我们的产品 | Our Products
 
