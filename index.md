@@ -50,5 +50,5 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 
 ------------
 
-Copyright (C) 2020 黑米粥工作室  
+Copyright © 2020 黑米粥工作室  
 **请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh "知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)")】许可协议授权**
