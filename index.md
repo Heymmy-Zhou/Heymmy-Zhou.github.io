@@ -44,7 +44,7 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 
 总体来看，Paint.NET的初体验还是挺让人满意的，有空下次再深入探究。
 
-# 联系方式 | Contact Us
+## 联系方式 | Contact Us
 - QQ：3547888247
 - 邮箱：[hei.mi.zhou@qq.com](mailto:hei.mi.zhou@qq.com "hei.mi.zhou@qq.com")
 - GitHub：[@Heymmy-Zhou](https://github.com/Heymmy-Zhou "@Heymmy-Zhou")
