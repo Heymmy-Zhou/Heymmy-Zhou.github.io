@@ -46,9 +46,9 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 
 ## 联系方式 | Contact Us
 - QQ：3547888247
-- 邮箱：[hei.mi.zhou@qq.com](mailto:hei.mi.zhou@qq.com "hei.mi.zhou@qq.com")
-- GitHub：[@Heymmy-Zhou](https://github.com/Heymmy-Zhou "@Heymmy-Zhou")
-- Gitee：[@Hei-Mi-Zhou](https://gitee.com/Hei-Mi-Zhou "@Hei-Mi-Zhou")
+- 邮箱：<a href="mailto:hei.mi.zhou@qq.com" target="_blank">hei.mi.zhou@qq.com</a>
+- GitHub：<a href="https://github.com/Heymmy-Zhou" target="_blank">@Heymmy-Zhou</a>
+- Gitee：<a href="https://gitee.com/Hei-Mi-Zhou" target="_blank">@Hei-Mi-Zhou</a>
 
 ------------
 
