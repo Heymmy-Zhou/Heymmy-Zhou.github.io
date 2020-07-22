@@ -34,7 +34,7 @@ layout: default
 请尝试:
 > - 正在检查连接
 > - 检查代理和防火墙
-> - 运行 Windows 网络诊断
+> - 运行 Windows 网络诊断  
 > ERR_CONNECTION_RESET
 
 如果你的浏览器没有提示，那可要恭喜了，说明你的浏览器自动纠错功能启动了，把http改成了https。但是，对于那些出现了这种状况的，又该怎么办呢？网络上的方法没几个有用，几经试验，我终于误打误撞地找到了解决方案：在网址前加上或把 ***http://*** 改成 ***https://*** 就可以了。这是为什么呢？我查阅了GitHub的<a href="https://docs.github.com/cn/github/working-with-github-pages/securing-your-github-pages-site-with-https" target="_blank">官方文档</a>，发现里面有这样一段话：
