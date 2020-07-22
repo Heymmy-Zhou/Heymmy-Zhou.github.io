@@ -41,15 +41,15 @@ layout: default
 > 对于使用 2016 年 1 月 15 日后创建的 github.io 域的 GitHub Pages 站点，需要**强制**实施 HTTPS。 如果您在 2016 年 6 月 15 日之前创建了站点，则可以手动启用实施 HTTPS。
 
 也就是说，GitHub必须让我们用HTTPS！我又查看了我的个人网页存储库设置，发现里面也有：
-> [X] Enforce HTTPS
-— Required for your site because you are using the default domain (heymmy-zhou.github.io)
-HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.
+> - [x] Enforce HTTPS  
+— Required for your site because you are using the default domain (heymmy-zhou.github.io)  
+HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.  
 When HTTPS is enforced, your site will only be served over HTTPS. Learn more.
 
 最前面那个勾是无法取消的。翻译过来，大致就是：
-> [X] 强制 HTTPS
-—您的站点需要，因为您使用的是默认域名（heymmy-zhou.github.io)
-HTTPS提供了一个加密层，防止其他人窥探或篡改您站点的流量。
+> - [x] 强制 HTTPS  
+—您的站点需要，因为您使用的是默认域名（heymmy-zhou.github.io)  
+HTTPS提供了一个加密层，防止其他人窥探或篡改您站点的流量。  
 当HTTPS被强制执行时，您的站点将只通过HTTPS提供服务。了解更多。
 
 所以，呜呜呜呜……既然GitHub抢制执行，我们也只好跟着干吧……
