@@ -24,6 +24,36 @@ layout: default
 
 ## 博客 | Blog
 **请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh "知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)")】许可协议授权**
+
+### 为什么 github.io 域名无法打开？
+**2020-07-22 08:36:20 星期三**
+现在网络上，使用 <a href="https://github.io" target="_blank">GitHub Pages</a> 创建个人主页的可谓是越来越多了。它完全免费，可惜服务器似乎有时会被“墙”。但还有一种情况，明明服务器正常，可是仍然无法打开网页。比如，大家试着打开这个网页：<a href="http://heymmy-zhou.github.io">http://heymmy-zhou.github.io</a>，网页多半会提示：
+> **嗯… 无法访问此页面**
+已重置连接。
+请尝试:
+- 正在检查连接
+- 检查代理和防火墙
+- 运行 Windows 网络诊断
+
+> ERR_CONNECTION_RESET
+
+如果你的浏览器没有提示，那可要恭喜了，说明你的浏览器自动纠错功能启动了，把http改成了https。但是，对于那些出现了这种状况的，又该怎么办呢？网络上的方法没几个有用，几经试验，我终于误打误撞地找到了解决方案：在网址前加上或把 ***http://*** 改成 ***https://*** 就可以了。这是为什么呢？我查阅了GitHub的<a href="https://docs.github.com/cn/github/working-with-github-pages/securing-your-github-pages-site-with-https" target="_blank">官方文档</a>，发现里面有这样一段话：
+> 对于使用 2016 年 1 月 15 日后创建的 github.io 域的 GitHub Pages 站点，需要**强制**实施 HTTPS。 如果您在 2016 年 6 月 15 日之前创建了站点，则可以手动启用实施 HTTPS。
+
+也就是说，GitHub必须让我们用HTTPS！我又查看了我的个人网页存储库设置，发现里面也有：
+> :fa-check-circle-o: Enforce HTTPS
+— Required for your site because you are using the default domain (heymmy-zhou.github.io)
+HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.
+When HTTPS is enforced, your site will only be served over HTTPS. Learn more.
+
+最前面那个勾是无法取消的。翻译过来，大致就是：
+> :fa-check-circle-o: 强制 HTTPS
+—您的站点需要，因为您使用的是默认域名（heymmy-zhou.github.io)
+HTTPS提供了一个加密层，防止其他人窥探或篡改您站点的流量。
+当HTTPS被强制执行时，您的站点将只通过HTTPS提供服务。了解更多。
+
+所以，呜呜呜呜……既然GitHub抢制执行，我们也只好跟着干吧……
+
 ### 优秀图片编辑软件——paint.net 推荐
 **2020-07-20 19:58:02 星期一**
 
