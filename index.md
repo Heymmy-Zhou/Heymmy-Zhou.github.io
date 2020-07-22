@@ -33,8 +33,8 @@ layout: default
 已重置连接。
 请尝试:
 > - 正在检查连接
-- 检查代理和防火墙
-- 运行 Windows 网络诊断
+> - 检查代理和防火墙
+> - 运行 Windows 网络诊断
 
 > ERR_CONNECTION_RESET
 
