@@ -27,11 +27,12 @@ layout: default
 
 ### 为什么 github.io 域名无法打开？
 **2020-07-22 08:36:20 星期三**  
+
 现在网络上，使用 <a href="https://github.io" target="_blank">GitHub Pages</a> 创建个人主页的可谓是越来越多了。它完全免费，可惜服务器似乎有时会被“墙”。但还有一种情况，明明服务器正常，可是仍然无法打开网页。比如，大家试着打开这个网页：<a href="http://heymmy-zhou.github.io">http://heymmy-zhou.github.io</a>，网页多半会提示：
-> **嗯… 无法访问此页面**
+> **嗯… 无法访问此页面**  
 已重置连接。
 请尝试:
-- 正在检查连接
+> - 正在检查连接
 - 检查代理和防火墙
 - 运行 Windows 网络诊断
 
