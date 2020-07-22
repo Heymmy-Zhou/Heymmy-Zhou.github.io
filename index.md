@@ -35,20 +35,19 @@ layout: default
 > - 正在检查连接
 > - 检查代理和防火墙
 > - 运行 Windows 网络诊断
-
 > ERR_CONNECTION_RESET
 
 如果你的浏览器没有提示，那可要恭喜了，说明你的浏览器自动纠错功能启动了，把http改成了https。但是，对于那些出现了这种状况的，又该怎么办呢？网络上的方法没几个有用，几经试验，我终于误打误撞地找到了解决方案：在网址前加上或把 ***http://*** 改成 ***https://*** 就可以了。这是为什么呢？我查阅了GitHub的<a href="https://docs.github.com/cn/github/working-with-github-pages/securing-your-github-pages-site-with-https" target="_blank">官方文档</a>，发现里面有这样一段话：
 > 对于使用 2016 年 1 月 15 日后创建的 github.io 域的 GitHub Pages 站点，需要**强制**实施 HTTPS。 如果您在 2016 年 6 月 15 日之前创建了站点，则可以手动启用实施 HTTPS。
 
 也就是说，GitHub必须让我们用HTTPS！我又查看了我的个人网页存储库设置，发现里面也有：
-> :fa-check-circle-o: Enforce HTTPS
+> [X] Enforce HTTPS
 — Required for your site because you are using the default domain (heymmy-zhou.github.io)
 HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.
 When HTTPS is enforced, your site will only be served over HTTPS. Learn more.
 
 最前面那个勾是无法取消的。翻译过来，大致就是：
-> :fa-check-circle-o: 强制 HTTPS
+> [X] 强制 HTTPS
 —您的站点需要，因为您使用的是默认域名（heymmy-zhou.github.io)
 HTTPS提供了一个加密层，防止其他人窥探或篡改您站点的流量。
 当HTTPS被强制执行时，您的站点将只通过HTTPS提供服务。了解更多。
