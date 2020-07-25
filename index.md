@@ -61,7 +61,7 @@ HTTPS提供了一个加密层，防止其他人窥探或篡改您站点的流量
 > 选个图片编辑软件太难了！
 - **画图**，功能就那么几个；
 - **PS**，根本买不起；
-- **GIMP**，根本就不是给 Windows 用的……
+- **GIMP**，简直不是给 Windows 用的……
 
 本人也会有这样的烦恼……一次偶然的机会，我看到了[MDN](https://developer.mozilla.org/zh-CN/ "MDN")（注意不是MSDN）上的[优秀软件推荐](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/Installing_basic_software "优秀软件推荐")，才豁然开朗：
 > 图像编辑器，像 GIMP、Paint.NET、Photoshop 或者 XD，用来编辑网页中的图形图像。
