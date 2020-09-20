@@ -20,7 +20,7 @@ layout: default
 > 真正优秀的电脑管理软件！
 
 #### [加法器](https://github.com/Heymmy-Zhou/Adder "加法器")
-> 采用 MFC 编写，供大家学习观摩。
+> 采用 HTML+JavaScript 编写，供大家学习观摩。
 
 ## 博客 | Blog
 **请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh "知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)")】许可协议授权**
