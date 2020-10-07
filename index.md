@@ -5,30 +5,30 @@ layout: default
 ---
 ## 我们是谁 | Who are we
 黑米粥工作室（Heymmy-Zhou Studio）位于中国大陆，是一家以开发、设计为主的非盈利工作室。  
-查看我们的[联系方式](#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--contact-us "联系方式")
+查看我们的[联系方式](#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--contact-us)
 
 ## 我们的产品 | Our Products
 
-#### [圆计算](https://github.com/Heymmy-Zhou/CircleCal "圆计算")
+#### [圆计算](https://github.com/Heymmy-Zhou/CircleCal)
 > 为方便大家计算有关圆的数据，告别复杂的圆周率计算，黑米粥工作室特推出圆计算程序，解决大家的圆计算难题。
 
-#### [2048](https://github.com/Heymmy-Zhou/Heymmy-Zhou-Studio-2048 "2048")
+#### [2048](https://github.com/Heymmy-Zhou/Heymmy-Zhou-Studio-2048)
 > 黑米粥工作室出品的 2048 PC端游戏正式上线啦！
 该游戏支持经典的 2048 游戏玩法，一改 DOS 默认界面，游戏更出彩！
 
-#### [黑米粥杀毒](https://github.com/Heymmy-Zhou/Antivirus "黑米粥杀毒")
+#### [黑米粥杀毒](https://github.com/Heymmy-Zhou/Antivirus)
 > 真正优秀的电脑管理软件！
 
-#### [加法器](https://github.com/Heymmy-Zhou/Adder "加法器")
+#### [加法器](https://github.com/Heymmy-Zhou/Adder)
 > 采用 HTML+JavaScript 编写，供大家学习观摩。
 
 ## 博客 | Blog
-**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh "知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)")】许可协议授权**
+**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC-BY-NC-SA-4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
 
 ### 为什么 github.io 域名无法打开？
 **2020-07-22 08:36:20 星期三**  
 
-现在网络上，使用 <a href="https://github.io" target="_blank">GitHub Pages</a> 创建个人主页的可谓是越来越多了。它完全免费，可惜服务器似乎有时会被“墙”。但还有一种情况，明明服务器正常，可是仍然无法打开网页。比如，大家试着打开这个网页：<a href="http://winpython.github.io/">http://winpython.github.io/</a>，网页多半会提示：
+现在网络上，使用 <a href="https://github.io" target="_blank">GitHub Pages</a> 创建个人主页的可谓是越来越多了。它完全免费，可惜服务器似乎有时会被“墙”。但还有一种情况，明明服务器正常，可是仍然无法打开网页。比如，大家试着打开这个网页：<a href="http://winpython.github.io/" target="_blank">http://winpython.github.io/</a>，网页多半会提示：
 > **嗯… 无法访问此页面**  
 已重置连接。
 请尝试:
@@ -63,7 +63,7 @@ HTTPS提供了一个加密层，防止其他人窥探或篡改您站点的流量
 - **PS**，根本买不起；
 - **GIMP**，简直不是给 Windows 用的……
 
-本人也会有这样的烦恼……一次偶然的机会，我看到了[MDN](https://developer.mozilla.org/zh-CN/ "MDN")（注意不是MSDN）上的[优秀软件推荐](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/Installing_basic_software "优秀软件推荐")，才豁然开朗：
+本人也会有这样的烦恼……一次偶然的机会，我看到了[MDN](https://developer.mozilla.org/zh-CN/)（注意不是MSDN）上的[优秀软件推荐](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/Installing_basic_software)，才豁然开朗：
 > 图像编辑器，像 GIMP、Paint.NET、Photoshop 或者 XD，用来编辑网页中的图形图像。
 
 Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气，被誉为“Linux下的PS”；至于XD，虽说是Adobe少有的良心免费软件，但还是略显生疏。而这里，居然把一个我从来没听说过的Paint.NET跟它们相提并论！这个Paint.NET究竟是何方神圣呢？于是，我进入它的官网<https://www.getpaint.net/>，来一探究竟。
@@ -83,4 +83,4 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 ------------
 
 Copyright © 2020 黑米粥工作室  
-**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh "知识共享 署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)")】许可协议授权**
+**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC-BY-NC-SA-4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
