@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<script>
+    alert("很抱歉，由于网站升级，部分功能无法使用，敬请谅解。");
+</script>
 # 首页
 ---
 ## 我们是谁 | Who are we
