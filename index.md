@@ -3,24 +3,25 @@ layout: default
 ---
 
 # 首页
+
 ---
+**注意：本页面已停止更新。**
+---
+
 ## 我们是谁 | Who are we
 黑米粥工作室（Heymmy-Zhou Studio）位于中国大陆，是一家以开发、设计为主的非盈利工作室。  
 查看我们的[联系方式](#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F--contact-us)
 
 ## 我们的产品 | Our Products
 
-#### [圆计算](https://github.com/Heymmy-Zhou/CircleCal)
+#### [圆计算](https://github.com/ZhouJiatai/CircleCal)
 > 为方便大家计算有关圆的数据，告别复杂的圆周率计算，黑米粥工作室特推出圆计算程序，解决大家的圆计算难题。
 
-#### [2048](https://github.com/Heymmy-Zhou/Heymmy-Zhou-Studio-2048)
+#### [2048](https://github.com/ZhouJiatai/2048)
 > 黑米粥工作室出品的 2048 PC端游戏正式上线啦！
 该游戏支持经典的 2048 游戏玩法，一改 DOS 默认界面，游戏更出彩！
 
-#### [黑米粥杀毒](https://github.com/Heymmy-Zhou/Antivirus)
-> 真正优秀的电脑管理软件！
-
-#### [加法器](https://github.com/Heymmy-Zhou/Adder)
+#### [加法器](https://github.com/ZhouJiatai/adder)
 > 采用 HTML+JavaScript 编写，供大家学习观摩。
 
 ## 博客 | Blog
@@ -80,5 +81,5 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 
 ------------
 
-Copyright © 2020 黑米粥工作室  
+Copyright © 2020 - 2021 黑米粥工作室  
 **请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
