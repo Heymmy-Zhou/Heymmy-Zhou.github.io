@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<script>
-    alert("很抱歉，由于网站升级，部分功能无法使用，敬请谅解。");
-</script>
+
 # 首页
 ---
 ## 我们是谁 | Who are we
@@ -26,7 +24,7 @@ layout: default
 > 采用 HTML+JavaScript 编写，供大家学习观摩。
 
 ## 博客 | Blog
-**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC-BY-NC-SA-4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
+**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
 
 ### 为什么 github.io 域名无法打开？
 **2020-07-22 08:36:20 星期三**  
@@ -78,12 +76,9 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 总体来看，Paint.NET的初体验还是挺让人满意的，有空下次再深入探究。
 
 ## 联系方式 | Contact Us
-- QQ：3547888247
-- 邮箱：<a href="mailto:hei.mi.zhou@qq.com" target="_blank">hei.mi.zhou@qq.com</a>
 - GitHub：<a href="https://github.com/Heymmy-Zhou" target="_blank">@Heymmy-Zhou</a>
-- Gitee：<a href="https://gitee.com/Hei-Mi-Zhou" target="_blank">@Hei-Mi-Zhou</a>
 
 ------------
 
 Copyright © 2020 黑米粥工作室  
-**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC-BY-NC-SA-4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
+**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
