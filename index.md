@@ -84,4 +84,4 @@ Photoshop的名气不必说了，那可是响当当的；GIMP倒也小有名气�
 ------------
 
 Copyright © 2020 - 2021 黑米粥工作室  
-**请注意：如无特殊说明，本网页下的所有博文均采用【[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)】许可协议授权**
+**请注意：如无特殊说明，本网页下的所有博文均采用【[CC BY-NC-SA 3.0 CN](https://creativecommons.org/licenses/by-nc-sa/3.0/cn)】许可协议授权**
